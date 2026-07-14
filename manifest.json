@@ -8,8 +8,8 @@
     "tesbihat": "tesbihat.json"
   },
   "checksums": {
-    "esma": "sha256-07d597defca9774d8f701aad232440f8598dc19a600af503d539f84c773b4ffc",
-    "tesbihat": "sha256-bca1c2c7153f60c730e39ab25979ede0627e3dc50645f783ec1bd09e5f69ec3b"
+    "esma": "sha256-e6c07d7a9d6e326f6a3fe8c00a4ed4057f66395ff95dd1e98cf42dec4129bafe",
+    "tesbihat": "sha256-9a0a6263357d53fd9c908bcd0edd838d6908fc797e31ba6c24a60a3239522373"
   },
   "languages": [
     "tr",
