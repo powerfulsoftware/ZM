@@ -1,0 +1,124 @@
+{
+  "tesbihat": [
+    {
+      "id": "tes-1",
+      "hedef": 33,
+      "translations": {
+        "tr": { "isim": "Sübhanallah", "aciklama": "Allah'ı tüm eksikliklerden tenzih ederiz" },
+        "en": { "isim": "Subhanallah", "aciklama": "Glory be to Allah" },
+        "ar": { "isim": "سبحان الله", "aciklama": "تنزيه الله عن كل نقص" },
+        "az": { "isim": "Sübhanallah", "aciklama": "Allahı bütün nöqsanlardan tənzih edirik" },
+        "ru": { "isim": "Субханаллах", "aciklama": "Слава Аллаху" },
+        "es": { "isim": "Subhanallah", "aciklama": "Gloria a Alá" }
+      }
+    },
+    {
+      "id": "tes-2",
+      "hedef": 33,
+      "translations": {
+        "tr": { "isim": "Elhamdülillah", "aciklama": "Allah'a hamdederiz" },
+        "en": { "isim": "Alhamdulillah", "aciklama": "All praise be to Allah" },
+        "ar": { "isim": "الحمد لله", "aciklama": "حمد الله والثناء عليه" },
+        "az": { "isim": "Əlhəmdülillah", "aciklama": "Allaha həmd edirik" },
+        "ru": { "isim": "Альхамдулиллях", "aciklama": "Хвала Аллаху" },
+        "es": { "isim": "Alhamdulillah", "aciklama": "Alabado sea Alá" }
+      }
+    },
+    {
+      "id": "tes-3",
+      "hedef": 34,
+      "translations": {
+        "tr": { "isim": "Allahu Ekber", "aciklama": "Allah en büyüktür" },
+        "en": { "isim": "Allahu Akbar", "aciklama": "Allah is the Greatest" },
+        "ar": { "isim": "الله أكبر", "aciklama": "الله أكبر من كل شيء" },
+        "az": { "isim": "Allah-u Əkbər", "aciklama": "Allah ən böyükdür" },
+        "ru": { "isim": "Аллаху Акбар", "aciklama": "Аллах Величайший" },
+        "es": { "isim": "Allahu Akbar", "aciklama": "Alá es el Más Grande" }
+      }
+    },
+    {
+      "id": "tes-4",
+      "hedef": 100,
+      "translations": {
+        "tr": { "isim": "La ilahe illallah", "aciklama": "Allah'tan başka ilah yoktur" },
+        "en": { "isim": "La ilaha illallah", "aciklama": "There is no god but Allah" },
+        "ar": { "isim": "لا إله إلا الله", "aciklama": "لا معبود بحق إلا الله" },
+        "az": { "isim": "La ilahə illallah", "aciklama": "Allahdan başqa ilah yoxdur" },
+        "ru": { "isim": "Ля иляха илляллах", "aciklama": "Нет божества кроме Аллаха" },
+        "es": { "isim": "La ilaha illallah", "aciklama": "No hay más dios que Alá" }
+      }
+    },
+    {
+      "id": "tes-5",
+      "hedef": 100,
+      "translations": {
+        "tr": { "isim": "La havle vela kuvvete illa billah", "aciklama": "Allah'ın izni olmadan hiçbir şey olmaz" },
+        "en": { "isim": "La hawla wa la quwwata illa billah", "aciklama": "There is no power except with Allah" },
+        "ar": { "isim": "لا حول ولا قوة إلا بالله", "aciklama": "لا تحوّل ولا قوة إلا بالله" },
+        "az": { "isim": "La həvlə və la qüvvətə illa billah", "aciklama": "Güc və qüdrət yalnız Allahdadır" },
+        "ru": { "isim": "Ля хауля ва ля куввата илля биллях", "aciklama": "Нет силы и мощи кроме как у Аллаха" },
+        "es": { "isim": "La hawla wa la quwwata illa billah", "aciklama": "No hay poder ni fuerza excepto en Alá" }
+      }
+    },
+    {
+      "id": "tes-6",
+      "hedef": 100,
+      "translations": {
+        "tr": { "isim": "Estağfirullah", "aciklama": "Allah'tan affını dilerim" },
+        "en": { "isim": "Astaghfirullah", "aciklama": "I seek forgiveness from Allah" },
+        "ar": { "isim": "أستغفر الله", "aciklama": "طلب المغفرة من الله" },
+        "az": { "isim": "İstığfirullah", "aciklama": "Allahdan bağışlanma diləyirəm" },
+        "ru": { "isim": "Астагфируллах", "aciklama": "Прошу прощения у Аллаха" },
+        "es": { "isim": "Astaghfirullah", "aciklama": "Pido perdón a Alá" }
+      }
+    },
+    {
+      "id": "tes-7",
+      "hedef": 100,
+      "translations": {
+        "tr": { "isim": "Yâ Allah", "aciklama": "Allah'ım diye sesleniş" },
+        "en": { "isim": "Ya Allah", "aciklama": "O Allah (calling upon Him)" },
+        "ar": { "isim": "يا الله", "aciklama": "نداء الله" },
+        "az": { "isim": "Ya Allah", "aciklama": "Allahım deyə səsləniş" },
+        "ru": { "isim": "Я Аллах", "aciklama": "О Аллах (обращение)" },
+        "es": { "isim": "Ya Allah", "aciklama": "Oh Alá (invocación)" }
+      }
+    },
+    {
+      "id": "tes-8",
+      "hedef": 100,
+      "translations": {
+        "tr": { "isim": "Yâ Rab", "aciklama": "Rabbim diye sesleniş" },
+        "en": { "isim": "Ya Rabb", "aciklama": "O Lord (calling upon Him)" },
+        "ar": { "isim": "يا رب", "aciklama": "نداء الرب" },
+        "az": { "isim": "Ya Rəbb", "aciklama": "Rəbbim deyə səsləniş" },
+        "ru": { "isim": "Я Рабб", "aciklama": "О Господи (обращение)" },
+        "es": { "isim": "Ya Rabb", "aciklama": "Oh Señor (invocación)" }
+      }
+    },
+    {
+      "id": "tes-9",
+      "hedef": 100,
+      "translations": {
+        "tr": { "isim": "Sallallahu âlâ Muhammed", "aciklama": "Muhammed'e salât okunur" },
+        "en": { "isim": "Sallallahu ala Muhammad", "aciklama": "Blessings upon Muhammad" },
+        "ar": { "isim": "صلى الله على محمد", "aciklama": "الصلاة على النبي محمد" },
+        "az": { "isim": "Səlləllahu ələ Muhəmməd", "aciklama": "Məhəmmədə salavat" },
+        "ru": { "isim": "Саллаллаху аля Мухаммад", "aciklama": "Благословение Мухаммаду" },
+        "es": { "isim": "Sallallahu ala Muhammad", "aciklama": "Bendiciones sobre Muhammad" }
+      }
+    },
+    {
+      "id": "tes-10",
+      "hedef": 100,
+      "translations": {
+        "tr": { "isim": "Bismillahirrahmanirrahim", "aciklama": "Rahman ve rahim olan Allah'ın adıyla" },
+        "en": { "isim": "Bismillahirrahmanirrahim", "aciklama": "In the name of Allah, the Most Gracious, the Most Merciful" },
+        "ar": { "isim": "بسم الله الرحمن الرحيم", "aciklama": "بدء باسم الله الرحمن الرحيم" },
+        "az": { "isim": "Bismillahir-Rəhmanir-Rəhim", "aciklama": "Mərhəmətli və Rəhmli Allahın adı ilə" },
+        "ru": { "isim": "Бисмиллях-ир-Рахман-ир-Рахим", "aciklama": "Именем Аллаха Милостивого Милосердного" },
+        "es": { "isim": "Bismillahir-Rahmanir-Rahim", "aciklama": "En el nombre de Alá, el Misericordioso" }
+      }
+    }
+  ]
+}

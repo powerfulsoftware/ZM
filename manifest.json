@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "publishedAt": "2026-07-14T11:33:33Z",
+  "minAppVersion": "1.0.0",
+  "parts": {
+    "esma": "esma.json",
+    "tesbihat": "tesbihat.json"
+  },
+  "checksums": {
+    "esma": "sha256-07d597defca9774d8f701aad232440f8598dc19a600af503d539f84c773b4ffc",
+    "tesbihat": "sha256-bca1c2c7153f60c730e39ab25979ede0627e3dc50645f783ec1bd09e5f69ec3b"
+  },
+  "languages": [
+    "tr",
+    "en",
+    "ar",
+    "az",
+    "ru",
+    "es"
+  ]
+}
