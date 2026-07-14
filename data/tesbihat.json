@@ -1,17 +1,6 @@
 {
   "tesbihat": [
-        {
-      "id": "tes-111",
-      "hedef": 33,
-      "translations": {
-        "tr": { "isim": "Sümeyye", "aciklama": "Allah'ı tüm eksikliklerden tenzih ederiz" },
-        "en": { "isim": "Subhanallah", "aciklama": "Glory be to Allah" },
-        "ar": { "isim": "سبحان الله", "aciklama": "تنزيه الله عن كل نقص" },
-        "az": { "isim": "Sübhanallah", "aciklama": "Allahı bütün nöqsanlardan tənzih edirik" },
-        "ru": { "isim": "Субханаллах", "aciklama": "Слава Аллаху" },
-        "es": { "isim": "Subhanallah", "aciklama": "Gloria a Alá" }
-      }
-    },
+
     {
       "id": "tes-1",
       "hedef": 33,
